@@ -1,5 +1,6 @@
-Complete DS, ML, DL, NLP Bootcamp – Progress
+**Complete DS, ML, DL, NLP Bootcamp – Progress**
 
+---
 Practical implementations of concepts learned from the course by Krish Naik
 About This Repository
 
@@ -45,8 +46,10 @@ Language: Python
 How to Use
 
 1. Clone this repository:
-    git clone https://github.com/chethandl23/DS-ML-DL-NLP-Bootcamp.git
+
+    git clone https://github.com/chethandl23/DS-ML-DL-NLP_handsOn.git
 2. Install the dependencies:
+
    pip install -r requirements.txt
 3. Open the Jupyter notebooks to explore the implementations. 
 
